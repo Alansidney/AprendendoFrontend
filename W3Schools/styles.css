@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(77,77,77);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h1{
+    color:rgb(224, 107, 40);
+}
+p{
+    color:whitesmoke;
+    font-size:large;
+}
+a:link,a:visited{
+    background-color: rgb(224, 107, 40);
+    color:whitesmoke;
+    padding: 10px 20px;
+    display: inline-block;
+    margin: 10px;
+}
+
+a:hover,a:active{
+    background-color: rgb(173, 72, 13);
+}
