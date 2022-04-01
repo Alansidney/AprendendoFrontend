@@ -49,3 +49,14 @@ tr:hover{
     color:black;
     background-color: #D6EEEE;
 }
+ul,ol,dl{
+    font-size:larger;
+    color:whitesmoke;
+    text-align: left;
+    margin-left: 5%;
+    background-color: rgba(255, 115, 0, 0.288);
+}
+li,dd{
+    font-size:medium;
+    margin-left: 7%;
+}
