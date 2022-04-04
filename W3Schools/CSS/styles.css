@@ -16,9 +16,8 @@ body{
     padding: 5px 15px;
     font-size: medium;
 }
-.Button:hover{
-    background-color: rgba(207, 93, 0, 0.85);
-}
+.Button:hover{background-color: rgba(207, 93, 0, 0.85);}
+
 table{
     margin: 15%;
     border:1px solid white;
